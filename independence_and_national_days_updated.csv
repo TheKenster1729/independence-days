@@ -1,0 +1,202 @@
+Country,has_independence_day,Independence day date,has_national_day,National day date,ISO Code,Display Date
+Afghanistan,TRUE,19 August / 15 February,TRUE,19.Aug,004,19.Aug
+Albania,TRUE,28.Nov,TRUE,28.Nov,008,28.Nov
+Algeria,TRUE,05.Jul,TRUE,5 July / 1 November,012,05.Jul
+Andorra,FALSE,,TRUE,08.Sep,020,08.Sep
+Angola,TRUE,11.Nov,TRUE,11.Nov,024,11.Nov
+Antigua and Barbuda,TRUE,01.Nov,TRUE,01.Nov,028,01.Nov
+Argentina,TRUE,09.Jul,TRUE,25 May / 9 July,032,09.Jul
+Armenia,TRUE,28 May / 21 September,TRUE,28 May / 21 September,051,28.May
+Australia,FALSE,,TRUE,26.Jan,036,26.Jan
+Austria,FALSE,,TRUE,26.Oct,040,26.Oct
+Azerbaijan,TRUE,28 May / 18 October,TRUE,28.May,031,28.May
+Bahamas,FALSE,,TRUE,10.Jul,044,10.Jul
+Bahrain,TRUE,16.Dec,TRUE,16.Dec,048,16.Dec
+Bangladesh,TRUE,26 March / 16 December,TRUE,26 March / 16 December,050,26.Mar
+Barbados,TRUE,30.Nov,TRUE,30.Nov,052,30.Nov
+Belarus,TRUE,03.Jul,TRUE,03.Jul,112,03.Jul
+Belgium,TRUE,21.Jul,TRUE,21.Jul,056,21.Jul
+Belize,TRUE,21.Sep,TRUE,21.Sep,084,21.Sep
+Benin,TRUE,01.Aug,TRUE,01.Aug,204,01.Aug
+Bhutan,FALSE,,TRUE,17.Dec,064,17.Dec
+Bolivia,TRUE,06.Aug,TRUE,06.Aug,068,06.Aug
+Bosnia and Herzegovina,TRUE,01.Mar,FALSE,,070,01.Mar
+Botswana,TRUE,30.Sep,TRUE,30.Sep,072,30.Sep
+Brazil,TRUE,07.Sep,TRUE,07.Sep,076,07.Sep
+Brunei,TRUE,23.Feb,TRUE,23.Feb,096,23.Feb
+Bulgaria,TRUE,3 March / 22 September,TRUE,03.Mar,100,03.Mar
+Burkina Faso,TRUE,11 December / 5 August,TRUE,11.Dec,854,11.Dec
+Burundi,TRUE,01.Jul,TRUE,01.Jul,108,01.Jul
+Cambodia,TRUE,09.Nov,TRUE,09.Nov,116,09.Nov
+Cameroon,TRUE,20.May,TRUE,20.May,120,20.May
+Canada,TRUE,01.Jul,TRUE,01.Jul,124,01.Jul
+Cape Verde,TRUE,05.Jul,TRUE,05.Jul,132,05.Jul
+Central African Republic,TRUE,1 December / 13 August,TRUE,01.Dec,140,01.Dec
+Chad,TRUE,28 November / 11 August,TRUE,11.Aug,148,11.Aug
+Chile,TRUE,18.Sep,TRUE,18.Sep,152,18.Sep
+"China, People's Republic of",FALSE,,TRUE,01.Oct,156,01.Oct
+Colombia,TRUE,20.Jul,TRUE,20.Jul,170,20.Jul
+Comoros,TRUE,06.Jul,TRUE,06.Jul,174,06.Jul
+Cook Islands,FALSE,,TRUE,04.Aug,184,04.Aug
+Costa Rica,TRUE,15.Sep,TRUE,15.Sep,188,15.Sep
+Croatia,TRUE,30.May,TRUE,30.May,191,30.May
+Cuba,TRUE,10.Oct,TRUE,1 January / 10 October,192,10.Oct
+Cyprus,TRUE,01.Oct,TRUE,01.Oct,196,01.Oct
+Czech Republic,TRUE,28 October / 1 January,TRUE,28.Oct,203,28.Oct
+Cote d'Ivoire,FALSE,,TRUE,07.Aug,384,07.Aug
+Democratic Republic of the Congo,TRUE,30.Jun,TRUE,30.Jun,180,30.Jun
+Denmark,FALSE,,TRUE,5 June (unofficial),208,05.Jan
+Djibouti,TRUE,27.Jun,TRUE,27.Jun,262,27.Jun
+Dominica,TRUE,03.Nov,TRUE,03.Nov,212,03.Nov
+Dominican Republic,TRUE,1 December / 27 February / 16 August,TRUE,27.Feb,214,27.Feb
+Ecuador,TRUE,10.Aug,TRUE,10.Aug,218,10.Aug
+Egypt,TRUE,23.Jul,TRUE,23.Jul,818,23.Jul
+El Salvador,TRUE,15.Sep,TRUE,15.Sep,222,15.Sep
+Equatorial Guinea,TRUE,12.Oct,TRUE,12.Oct,226,12.Oct
+Eritrea,TRUE,24.May,TRUE,24.May,232,24.May
+Estonia,TRUE,24 February / 20 August,TRUE,24.Feb,233,24.Feb
+Eswatini,TRUE,06.Sep,TRUE,06.Sep,748,06.Sep
+Ethiopia,FALSE,,TRUE,28.May,231,28.May
+Fiji,TRUE,10.Oct,TRUE,10.Oct,242,10.Oct
+Finland,TRUE,06.Dec,TRUE,06.Dec,246,06.Dec
+France,FALSE,,TRUE,14.Jul,250,14.Jul
+Gabon,TRUE,16 / 17 August,TRUE,17.Aug,266,17.Aug
+"Gambia, The",TRUE,18.Feb,TRUE,18.Feb,270,18.Feb
+Georgia,TRUE,26 May / 9 April,TRUE,26.May,268,26.May
+Germany,TRUE,03.Oct,TRUE,03.Oct,276,03.Oct
+Ghana,TRUE,06.Mar,TRUE,06.Mar,288,06.Mar
+Greece,TRUE,25.Mar,TRUE,25 March / 28 October,300,25.Mar
+Grenada,TRUE,07.Feb,TRUE,07.Feb,308,07.Feb
+Guatemala,TRUE,15.Sep,TRUE,15.Sep,320,15.Sep
+Guinea,TRUE,02.Oct,TRUE,02.Oct,324,02.Oct
+Guinea-Bissau,TRUE,24.Sep,TRUE,24.Sep,624,24.Sep
+Guyana,TRUE,26.May,TRUE,23 February / 26 May,328,26.May
+Haiti,TRUE,01.Jan,TRUE,01.Jan,332,01.Jan
+Honduras,TRUE,15.Sep,TRUE,15.Sep,340,15.Sep
+Hungary,FALSE,,TRUE,15 March / 20 August / 23 October,348,20.Aug
+Iceland,TRUE,17.Jun,TRUE,17.Jun,352,17.Jun
+India,TRUE,15.Aug,TRUE,26 January / 15 August / 2 October,356,15.Aug
+Indonesia,TRUE,17.Aug,TRUE,17.Aug,360,17.Aug
+Iran,FALSE,,TRUE,11 February / 1 April,364,11.Feb
+Iraq,TRUE,03.Oct,TRUE,03.Oct,368,03.Oct
+Ireland,FALSE,,TRUE,17.Mar,372,17.Mar
+Israel,TRUE,"Iyar 5 (On or between 15 April and 15 May, depending on the Hebrew calendar).",TRUE,5 Iyar,376,15.May
+Italy,TRUE,17.Mar,TRUE,02.Jun,380,17.Mar
+Ivory Coast,TRUE,07.Aug,FALSE,,384,07.Aug
+Jamaica,TRUE,06.Aug,TRUE,06.Aug,388,06.Aug
+Japan,FALSE,,TRUE,11.Feb,392,11.Feb
+Jordan,TRUE,25.May,TRUE,25.May,400,25.May
+Kazakhstan,TRUE,16.Dec,TRUE,16.Dec,398,16.Dec
+Kenya,TRUE,1 June / 12 December,TRUE,12.Dec,404,12.Dec
+Kingdom of the Netherlands,FALSE,,TRUE,27 April / 5 May,528,27.Apr
+Kiribati,TRUE,12.Jul,TRUE,12.Jul,296,12.Jul
+Kosovo,TRUE,17.Feb,FALSE,,688,17.Feb
+Kuwait,TRUE,25.Feb,TRUE,25.Feb,414,25.Feb
+Kyrgyzstan,TRUE,31.Aug,TRUE,31.Aug,417,31.Aug
+Laos,FALSE,,TRUE,02.Dec,418,02.Dec
+Latvia,TRUE,18 November / 4 May,TRUE,18.Nov,428,18.Nov
+Lebanon,TRUE,22.Nov,TRUE,22.Nov,422,22.Nov
+Lesotho,TRUE,04.Oct,TRUE,04.Oct,426,04.Oct
+Liberia,TRUE,26.Jul,TRUE,26.Jul,430,26.Jul
+Libya,TRUE,24.Dec,TRUE,24.Dec,434,24.Dec
+Liechtenstein,TRUE,15.Aug,TRUE,15.Aug,438,15.Aug
+Lithuania,TRUE,16 February / 11 March,TRUE,16.Feb,440,16.Feb
+Luxembourg,FALSE,,TRUE,23.Jun,442,23.Jun
+Madagascar,TRUE,26.Jun,TRUE,26.Jun,450,26.Jun
+Malawi,TRUE,06.Jul,TRUE,06.Jul,454,06.Jul
+Malaysia,TRUE,31 August / 16 September,TRUE,31 August / 16 September,458,31.Aug
+Maldives,TRUE,"1st of Rabi' al-Awwal, 3rd month of Islamic calendar / 26 July",TRUE,1 Rabi' al-Awwal,462,26.Jul
+Mali,TRUE,22.Sep,TRUE,22.Sep,466,22.Sep
+Malta,TRUE,21.Sep,TRUE,31 March / 7 June / 8 September / 21 September / 13 December,470,21.Sep
+Marshall Islands,TRUE,01.May,TRUE,01.May,584,01.May
+Mauritania,TRUE,28.Nov,TRUE,28.Nov,478,28.Nov
+Mauritius,TRUE,12.Mar,TRUE,12.Mar,480,12.Mar
+Mexico,TRUE,16.Sep,TRUE,16.Sep,484,16.Sep
+Micronesia,TRUE,03.Nov,TRUE,03.Nov,583,03.Nov
+Moldova,TRUE,27.Aug,TRUE,27.Aug,498,27.Aug
+Monaco,FALSE,,TRUE,19.Nov,492,19.Nov
+Mongolia,TRUE,29.Dec,TRUE,26 November / 29 December,496,29.Dec
+Montenegro,TRUE,21.May,TRUE,21 May / 13 July,499,21.May
+Morocco,TRUE,11 January / 18 November,TRUE,18.Nov,504,18.Nov
+Mozambique,TRUE,25.Jun,TRUE,25.Jun,508,25.Jun
+Myanmar,TRUE,04.Jan,TRUE,10th day of Tazaungmon,104,04.Jan
+Namibia,TRUE,21.Mar,TRUE,21.Mar,516,21.Mar
+Nauru,TRUE,31.Jan,TRUE,31.Jan,520,31.Jan
+Nepal,FALSE,,TRUE,19.Sep,524,19.Sep
+New Zealand,FALSE,,TRUE,06.Feb,554,06.Feb
+Nicaragua,TRUE,15.Sep,TRUE,15.Sep,558,15.Sep
+Niger,TRUE,03.Aug,TRUE,18.Dec,562,03.Aug
+Nigeria,TRUE,01.Oct,TRUE,01.Oct,566,01.Oct
+Niue,FALSE,,TRUE,19.Oct,570,19.Oct
+North Korea,TRUE,15.Aug,TRUE,15 August / 9 September / 10 October,408,15.Aug
+North Macedonia,TRUE,2 August / 8 September,TRUE,2 August / 8 September,807,02.Aug
+Norway,TRUE,17 May / 7 June,TRUE,17.May,578,17.May
+Oman,FALSE,,TRUE,20.Nov,512,20.Nov
+Pakistan,TRUE,14.Aug,TRUE,23 March / 14 August,586,14.Aug
+Palau,TRUE,01.Oct,TRUE,9 July / 1 October,585,01.Oct
+Palestine,TRUE,1 October / 15 November,TRUE,15.Nov,275,15.Nov
+Panama,TRUE,28 November / 3 November,TRUE,3 November / 28 November,591,03.Nov
+Papua New Guinea,TRUE,16.Sep,TRUE,16.Sep,598,16.Sep
+Paraguay,TRUE,14 and 15 May,TRUE,14.May,600,14.May
+Peru,TRUE,28.Jul,TRUE,28.Jul,604,28.Jul
+Philippines,TRUE,12 June / 4 July,TRUE,12.Jun,608,12.Jun
+Poland,TRUE,11.Nov,TRUE,3 May / 11 November,616,11.Nov
+Portugal,TRUE,01.Dec,TRUE,10.Jun,620,01.Dec
+Qatar,TRUE,18.Dec,TRUE,18.Dec,634,18.Dec
+Republic of the Congo,TRUE,28 November / 15 August,TRUE,15.Aug,178,15.Aug
+Romania,TRUE,10 May / 1 December,TRUE,01.Dec,642,01.Dec
+Russia,FALSE,,TRUE,12 June / 4 November,643,12.Jun
+Rwanda,TRUE,01.Jul,TRUE,01.Jul,646,01.Jul
+Saint Kitts and Nevis,TRUE,19.Sep,TRUE,19.Sep,659,19.Sep
+Saint Lucia,TRUE,22.Feb,TRUE,22.Feb,662,22.Feb
+Saint Vincent and the Grenadines,TRUE,27.Oct,TRUE,27.Oct,670,27.Oct
+Samoa,TRUE,01.Jun,TRUE,01.Jun,882,01.Jun
+San Marino,FALSE,,TRUE,03.Sep,674,03.Sep
+Saudi Arabia,FALSE,,TRUE,23.Sep,682,23.Sep
+Senegal,TRUE,04.Apr,TRUE,04.Apr,686,04.Apr
+Serbia,TRUE,15.Feb,TRUE,15.Feb,688,15.Feb
+Seychelles,TRUE,29.Jun,TRUE,18 June / 29 June,690,29.Jun
+Sierra Leone,TRUE,27.Apr,TRUE,27.Apr,694,27.Apr
+Singapore,TRUE,09.Aug,TRUE,09.Aug,702,09.Aug
+Slovakia,TRUE,28 October / 17 July / 1 January,TRUE,29.Aug,703,01.Jan
+Slovenia,TRUE,25 June / 26 December,TRUE,25.Jun,705,25.Jun
+Solomon Islands,TRUE,07.Jul,TRUE,07.Jul,090,07.Jul
+Somalia,TRUE,26 June / 1 July,TRUE,01.Jul,706,01.Jul
+South Africa,FALSE,,TRUE,27.Apr,710,27.Apr
+South Korea,TRUE,1 March / 15 August,TRUE,1 March / 15 August / 3 October,410,01.Mar
+South Sudan,TRUE,09.Jul,TRUE,09.Jul,728,09.Jul
+Spain,FALSE,,TRUE,12.Oct,724,12.Oct
+Sri Lanka,TRUE,04.Feb,TRUE,04.Feb,144,04.Feb
+Sudan,TRUE,01.Jan,TRUE,01.Jan,729,01.Jan
+Serbia,TRUE,15.Feb,TRUE,15.Feb,688,15.Feb
+Suriname,TRUE,25.Nov,TRUE,25.Nov,740,25.Nov
+Sweden,TRUE,06.Jun,TRUE,06.Jun,752,06.Jun
+Switzerland,TRUE,01.Aug,TRUE,01.Aug,756,01.Aug
+Syria,TRUE,17.Apr,TRUE,17.Apr,760,17.Apr
+Sao Tome and Principe,TRUE,12.Jul,TRUE,12.Jul,678,12.Jul
+Taiwan,FALSE,,TRUE,10.Oct,158,10.Oct
+Tajikistan,TRUE,09.Sep,TRUE,09.Sep,762,09.Sep
+Tanzania,TRUE,09.Dec,TRUE,09.Dec,834,09.Dec
+Thailand,FALSE,,TRUE,05.Dec,764,05.Dec
+The Bahamas,TRUE,10.Jul,FALSE,,044,10.Jul
+Timor-Leste,TRUE,28 November / 20 May,TRUE,20.May,626,20.May
+Togo,TRUE,27 April / 13 January,TRUE,27.Apr,768,27.Apr
+Tonga,TRUE,04.Jun,TRUE,4 June / 4 November,776,04.Jun
+Trinidad and Tobago,TRUE,31.Aug,TRUE,31.Aug,780,31.Aug
+Tunisia,TRUE,20.Mar,TRUE,20.Mar,788,20.Mar
+Turkey,FALSE,,TRUE,29.Oct,792,29.Oct
+Turkmenistan,TRUE,27.Sep,TRUE,27.Sep,795,27.Sep
+Tuvalu,TRUE,01.Oct,TRUE,01.Oct,798,01.Oct
+Uganda,TRUE,09.Oct,TRUE,09.Oct,800,09.Oct
+Ukraine,TRUE,24 August / 22 January,TRUE,15 July / 24 August,804,24.Aug
+United Arab Emirates,TRUE,02.Dec,TRUE,02.Dec,784,02.Dec
+United States,TRUE,04.Jul,TRUE,04.Jul,840,04.Jul
+Uruguay,TRUE,25.Aug,TRUE,25.Aug,858,25.Aug
+Uzbekistan,TRUE,01.Sep,TRUE,01.Sep,860,01.Sep
+Vanuatu,TRUE,30.Jul,TRUE,30.Jul,548,30.Jul
+Vatican City,TRUE,11.Feb,TRUE,11.Feb,336,11.Feb
+Venezuela,TRUE,05.Jul,TRUE,05.Jul,862,05.Jul
+Vietnam,TRUE,02.Sep,TRUE,02.Sep,704,02.Sep
+Yemen,TRUE,30.Nov,TRUE,22.May,887,30.Nov
+Zambia,TRUE,24.Oct,TRUE,24.Oct,894,24.Oct
+Zimbabwe,TRUE,18.Apr,TRUE,18.Apr,716,18.Apr
